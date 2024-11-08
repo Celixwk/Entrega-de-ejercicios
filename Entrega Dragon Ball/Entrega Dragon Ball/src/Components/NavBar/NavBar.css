@@ -1,0 +1,8 @@
+nav {
+    margin-top: 0; 
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px; 
+}

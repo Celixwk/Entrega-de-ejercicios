@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App{
+  display: grid;
+  height: 100vh;
+  width: 100vw;
+  grid-template-columns: 1fr 4fr;
+}
+
+#div-header{
+  background-color: black;    
+}
+
+#menu{
+  position:sticky;
+  top: 30px;
+}
